@@ -1,7 +1,7 @@
 ## Welcome, Devs! I'm Ícaro 👋
 
 
-- 🔭 I’m currently working on becoming a Frond End Dev! 
+- 🔭 I’m currently working on becoming a Frond End Dev! 👨‍💻
 <br><br>
 
 <div>
@@ -19,9 +19,8 @@
   
 </div>
 
-
-  
   ##
+  
  <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/Ícaro#9900" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -29,8 +28,3 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
-
-<img align="right" alt="Icaro-Octocat" height="200" width="auto" src="https://i.postimg.cc/50x4tvsd/octocat-caro.png"/>
-
-
-![Snake animation](https://github.com/icaro-fcc/icaro-fcc/blob/output/github-contribution-grid-snake.svg)
