@@ -9,7 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="center" alt="Icaro-HTML" height="30" width="40" src="https://github-readme-stats.vercel.app/api?username=icaro-fcc&count_private=true&show_icons=true&theme=city_lights">
 
 ![Ícaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaro-fcc&count_private=true&show_icons=true&theme=city_lights)
 
