@@ -8,8 +8,8 @@
   
 
   
-<img  width="40%" src="https://github-readme-stats.vercel.app/api?username=icaro-fcc&show_icons=true&theme=city_lights&count_private=true&include_all_commits=true"/>
-<img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro-fcc&layout=compact&theme=city_lights)"/>
+<img  width="45%" src="https://github-readme-stats.vercel.app/api?username=icaro-fcc&show_icons=true&theme=city_lights&count_private=true&include_all_commits=true"/>
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro-fcc&layout=compact&theme=city_lights)"/>
   
 
 
