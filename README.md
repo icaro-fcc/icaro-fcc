@@ -4,14 +4,12 @@
 - 🔭 I’m currently working on becoming a Frond End Dev! 👨‍💻
 <br><br>
 
-<a href="https://github.com/icaro-fcc">
-  
-
+<div>
 
 <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=icaro-fcc&show_icons=true&theme=city_lights&count_private=true&include_all_commits=true"/>
 <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro-fcc&layout=compact&theme=city_lights"/>
   
-
+</div>
 
 
 <div style="display: inline_block"><br>
