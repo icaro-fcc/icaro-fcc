@@ -6,8 +6,8 @@
 
 <div>
 
-<img  width="45%" src="https://github-readme-stats.vercel.app/api?username=icaro-fcc&show_icons=true&theme=noctis_minimus&count_private=true&include_all_commits=true"/>
-<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro-fcc&layout=compact&theme=noctis_minimus"/>
+<img  width="45%" src="https://github-readme-stats.vercel.app/api?username=icaro-fcc&show_icons=true&theme=nord&count_private=true&include_all_commits=true"/>
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro-fcc&layout=compact&theme=nord"/>
   
 </div>
 
