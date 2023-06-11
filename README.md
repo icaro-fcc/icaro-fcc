@@ -1,7 +1,7 @@
-## Welcome, Devs! I'm Ícaro 👋
+## Hello amd welcome! I'm Ícaro 👋
 
 
-- 🔭 I’m currently working on becoming a Frond End Dev! 👨‍💻
+- 🔭 I’m studying to become a Web Developer, and currently studying Front-End technologies! 👨‍💻
 <br><br>
 
 <div>
