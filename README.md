@@ -1,12 +1,13 @@
-## Hello amd welcome! I'm Ícaro 👋
+## Hello and welcome! I'm Ícaro 👋
 
 
-- 🔭 I’m studying to become a Web Developer! Here you can find some of my projects that I've been doing during my journey 👨‍💻
+🔭 I’m studying to become a Web Software Developer! 💻
+- Here you can find some of my projects that I've been doing during my journey 👨‍💻
 <br><br>
 
 <div>
 
-<img  width="45%" src="https://github-readme-stats.vercel.app/api?username=icaro-fcc&show_icons=true&theme=nord&count_private=true&include_all_commits=true"/>
+
 <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro-fcc&layout=compact&theme=nord"/>
   
 </div>
@@ -15,10 +16,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Icaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Icaro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-          
+  <img align="center" alt="Icaro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icaro-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img align="center" alt="Icaro-Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
+  <img align="center" alt="Icaro-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   
 </div>
 
