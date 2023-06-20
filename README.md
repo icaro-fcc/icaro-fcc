@@ -5,15 +5,13 @@
 - Here you can find some of my projects that I've been doing during my journey 👨‍💻
 <br><br>
 
-<div>
 
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro-fcc&layout=compact&theme=nord"/>  
 
-<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro-fcc&layout=compact&theme=nord"/>
-  
-</div>
+<br>
 
-
-<div style="display: inline_block"><br>
+- The techlonogies that I've been learning so far are:
+<div style="display: inline_block">
   <img align="center" alt="Icaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icaro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,6 +22,7 @@
 </div>
 
   ##
+
   
  <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
