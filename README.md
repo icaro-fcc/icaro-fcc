@@ -1,9 +1,9 @@
 ## Hello and welcome! I'm Ícaro 👋
 
 
-🔭 I’m studying to become a Web Software Developer! 💻
+🔭 I'm studying to become a Web Software Developer! 💻
 - Here you can find some of my projects that I've been doing during my journey 👨‍💻
-- The technologies that I've been learning so far are:
+- The technologies that I've studied so far are:
 <div style="display: inline_block;">
   <img align="center" alt="Icaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
